@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPMS", "EPMS\EPMS.csproj", "{D464833E-0E7F-406B-8F75-A88C2F610D9B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EPMS_Setup", "EPMS_Setup\EPMS_Setup.vdproj", "{AF3088BF-487E-4984-B634-EA5B1A4C4A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D464833E-0E7F-406B-8F75-A88C2F610D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D464833E-0E7F-406B-8F75-A88C2F610D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D464833E-0E7F-406B-8F75-A88C2F610D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D464833E-0E7F-406B-8F75-A88C2F610D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3088BF-487E-4984-B634-EA5B1A4C4A11}.Debug|Any CPU.ActiveCfg = Debug
+		{AF3088BF-487E-4984-B634-EA5B1A4C4A11}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
